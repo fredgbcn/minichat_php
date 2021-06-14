@@ -1,0 +1,38 @@
+form{
+    height: 200px;
+    width: 80%;
+    border: 1px solid rgb(80, 78, 78);
+    background: linear-gradient(70deg, rgb(148, 122, 122), pink);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: uppercase;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(39, 47, 68);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+label, input{
+position: relative;
+margin: auto;
+}
+.button{
+    text-transform: uppercase;
+    background-color:rgb(161, 176, 216);
+    border-radius: 10px;
+    height: 40px;
+    width:200px;
+    color:rgb(39, 47, 68);
+    font-weight: 1000;
+    background:  rgb(160, 165, 224);
+}
+p{
+    color: rgb(180, 89, 180);
+    text-align: center;
+}
+strong{
+    color: rgb(80, 43, 80);
+}
